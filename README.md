@@ -1,2 +1,3 @@
-# TASK3
+# Music Player
+TASK3
 developed a music player using HTML,CSS and JAVASCRIPT
